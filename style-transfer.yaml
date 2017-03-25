@@ -1,0 +1,26 @@
+name: style-transfer
+channels:
+- defaults
+dependencies:
+- bzip2=1.0.6=vc14_3
+- freetype=2.5.5=vc14_2
+- jpeg=9b=vc14_0
+- libpng=1.6.27=vc14_0
+- libtiff=4.0.6=vc14_3
+- mkl=2017.0.1=0
+- numpy=1.12.1=py35_0
+- olefile=0.44=py35_0
+- pillow=4.0.0=py35_1
+- pip=9.0.1=py35_1
+- python=3.5.3=0
+- scipy=0.19.0=np112py35_0
+- setuptools=27.2.0=py35_1
+- vs2015_runtime=14.0.25123=0
+- wheel=0.29.0=py35_0
+- zlib=1.2.8=vc14_3
+- pip:
+  - protobuf==3.2.0
+  - six==1.10.0
+  - tensorflow==1.0.1
+prefix: C:\Users\Nate\Anaconda3\envs\style-transfer
+
